@@ -1,7 +1,5 @@
-# 👋 Thanks for visit my profile!
-- 👀 I am interest in Low-level development now and webs, UNIX App
-- 🌱 I’m currently learning C++, EDK2, Node.JS
-- ✨ also I love legacy OS!
+# 👋 Hello! Thanks for visiting my profile!
+- ✨ I love computers so much
 - 🇯🇵 I'm Japanese, I'm so sorry for my Poor english. please tell me what wrong
 
 <!---
